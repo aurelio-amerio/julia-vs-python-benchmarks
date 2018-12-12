@@ -1,7 +1,6 @@
 # Julia vs Python Benchmarks
 A short series of benchmarks to compare Julia and Python performance
 
-Results:
 
 ### For Cycles
 
